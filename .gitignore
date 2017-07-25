@@ -2,8 +2,11 @@
 MNIST_data/
 MNIST-data/
 data/
-
+*.swp
 *.gz
+
+*.jpg
+*.eps
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
